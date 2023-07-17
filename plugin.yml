@@ -1,0 +1,5 @@
+name: PotionWars
+main: potionwars.main
+version: 1337
+commands:
+  howtoplay:
